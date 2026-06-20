@@ -15,7 +15,9 @@
 *   **Databases:** MongoDB
 *   **Tools & Platforms:** Git, GitHub, Render, Postman
 *   **Other Interests:** LSB Image Steganography, Automata Theory
-
+*   **Tools & Platforms:** Git, GitHub, Render, Postman
+*   **AI & Design:** Proficient in using AI-driven design, sketching, and image generation software for creative workflows.
+*   **Other Interests:** LSB Image Steganography, Automata Theory
 ---
 
 ### 🚀 Featured Projects
